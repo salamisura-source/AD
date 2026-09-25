@@ -6,7 +6,13 @@ Terminale da usare su tablet, in reparto, per registrare la produzione. Gli elen
 
 https://salamisura-source.github.io/AD/
 
-Si può anche aggiungere alla schermata Home del tablet: dal browser, *Aggiungi a Home* / *Installa app*. Dopo la prima apertura funziona anche senza rete, con gli ultimi elenchi scaricati.
+Se il link non risponde ancora, va attivato GitHub Pages una volta sola:
+
+1. Apri [Impostazioni → Pages](https://github.com/salamisura-source/AD/settings/pages).
+2. In **Build and deployment** scegli **Deploy from a branch**.
+3. Branch: `main`, cartella `/ (root)`, poi **Save**.
+
+La prima pubblicazione può richiedere un minuto. Poi, dal tablet: *Aggiungi a Home* / *Installa app*. Dopo la prima apertura funziona anche senza rete, con gli ultimi elenchi scaricati.
 
 ## Come si registra
 
